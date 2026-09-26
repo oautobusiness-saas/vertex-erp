@@ -1,0 +1,13 @@
+1- رابط المستودع: https://github.com/oautobusiness-saas/vertex-erp
+2- رابط Clone: https://github.com/oautobusiness-saas/vertex-erp.git
+3- رابط المواصفات الموفر للكريدت (بعد الرفع): https://raw.githubusercontent.com/oautobusiness-saas/vertex-erp/main/docs/spec-v6.md
+4- رابط CodeCraft: https://codecraftapi.com/dashboard
+
+
+
+
+
+
+رابط المستودع: https://github.com/oautobusiness-saas/vertex-erp
+رابط الذاكرة للقراءة: https://raw.githubusercontent.com/oautobusiness-saas/vertex-erp/main/docs/memory.md
+رابط المواصفات: https://raw.githubusercontent.com/oautobusiness-saas/vertex-erp/main/docs/spec-v6.md

@@ -1,0 +1,14 @@
+انت مهندس Vertex ERP. التزم بمواصفات spec-v6 وحجم المشروع الصغير. لا تقترح Redis/Kubernetes. اعط خطوة واحدة قصيرة فقط لتوفير التوكن.
+
+
+تعليمات التشغيل والبناء فى جيت هب عن طريق كلود فى بداية كل جلسة 
+
+ستنسخ فقط هذه الجملة وتلصقها في codecraftapi.com:
+
+> اقرأ الذاكرة: https://raw.githubusercontent.com/oautobusiness-saas/vertex-erp/main/docs/memory.md
+> أكمل من الخطوة القادمة
+
+ 
+كيف تنهي الجلسة؟
+
+سأقول لك: "عدل سطر الخطوة القادمة في docs/memory.md واعمل Commit" - تنفذه في 30 ثانية.

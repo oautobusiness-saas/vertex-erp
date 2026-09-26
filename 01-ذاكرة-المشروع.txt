@@ -1,0 +1,18 @@
+# ذاكرة مشروع Vertex ERP
+الاسم: Vertex ERP - فيرتكس
+الهوية: Local-First Multi-Tenant - بيانات العميل محليا فقط + Supabase للترخيص
+التقنية: C# WPF + SQLite اولا ثم PostgreSQL LAN + Lemon Squeezy + Supabase
+وضع الضيف ❗ = واجهة مطابقة ببيانات وهمية متسقة - ملف منفصل decoy.db - يفعل/يغلق من لوحة المالك
+النسخ الاحتياطي = حفظ مستمر incremental عند كل حدث - محلي backup.db + رفع الفروقات فقط لـ Drive مشفر
+رسالة 15 يوم = لتحديث البرنامج فقط
+ما تم: انشاء مستودع vertex-erp Private
+الخطوة القادمة: رفع ملف spec-v6.md الى مجلد docs
+
+
+
+# Vertex ERP - ذاكرة حية
+## 1- الهوية: Vertex ERP Local-First + وضع الضيف ❗ملف منفصل decoy.db + تحكم مركزي
+## 2- النسخ: حفظ مستمر incremental عند كل حدث محلي + رفع الفروقات فقط لـ Drive
+## 3- ما تم: انشاء مستودع vertex-erp Public
+## 4- الخطوة القادمة: انشاء docs/spec-v6.md و docs/memory.md
+## 5- تعليمات لـ Claude: التزم بالحجم الصغير لا Redis - اعط خطوة واحدة فقط
