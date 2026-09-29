@@ -4,9 +4,14 @@
 ________________________________________
 
 ## المرحلة 0 - التأسيس
-0.1 إنشاء هيكل المجلدات المعماري: /architecture/adr, /contracts, /module-boundaries, /database, /security
-0.2 كتابة 5 ADRs (قرارات معمارية) كملفات Markdown منفصلة
-0.3 رسم ERD نصي (مخطط البيانات الأساسي)
+✅ 0.1 هيكل المجلدات المعماري - architecture/adr, contracts, module-boundaries, database, security
+0.2 كتابة 5 ADRs:
+  ✅ ADR 001 - خطة حماية البيانات
+  ✅ ADR 002 - التعدد والتزامن
+  ✅ ADR 003 - استراتيجية محرك القيد المزدوج
+  ⬜ ADR 004 - حدود الثقة مع الخدمات الخارجية
+  ⬜ ADR 005 - عزل الوحدات (التخصصات)
+⬜ 0.3 رسم ERD نصي
 
 ## المرحلة 1 - النواة (Core)
 بناء Core: Tenancy + Users/RBAC + Config مشفر + دعم LAN
